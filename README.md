@@ -9,8 +9,7 @@ CRUD Web application practice
 - Bootstrap 
 
 __Project Structure
-
-
+```
 root
 |
 ├──src
@@ -37,3 +36,4 @@ root
 |          |   └── update_employee.html
 |          └── application.yml
 └── pom.xml    
+```
